@@ -24,9 +24,10 @@
   "footer": {
     "color": "default",
     "social": {
-      "facebook": "/",
+      "facebook": "",
       "twitter": "/",
-      "instagram": "/"
+      "instagram": "",
+      "github": "/"
     }
   },
   "theme": {

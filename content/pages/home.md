@@ -4,12 +4,8 @@ blocks:
   - headline: Welcome to Kula
     text: ''
     actions:
-      - label: Get Started
+      - label: Learn More
         type: button
-        icon: true
-        link: /posts
-      - label: Read Blog
-        type: link
         icon: false
         link: /posts
     image:
@@ -43,6 +39,7 @@ blocks:
     color: tint
     _template: features
 ---
+
 
 
 

@@ -18,10 +18,8 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/IMG_6524.PNG
-      alt: >-
-        Photo of palm trees at sunset by Adam Birkett -
-        unsplash.com/photos/75EFpyXu3Wg
+      src: /uploads/kulalogo-cutout.png
+      alt: Kula Logo
     color: default
     _template: hero
   - items:
@@ -50,4 +48,5 @@ blocks:
     color: tint
     _template: features
 ---
+
 

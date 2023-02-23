@@ -7,7 +7,7 @@ blocks:
       - label: Learn More
         type: button
         icon: false
-        link: /posts
+        link: 'https://wearekula.org/?page_id=62'
     image:
       src: /uploads/kulalogo-cutout.png
       alt: Kula Logo
@@ -17,6 +17,7 @@ blocks:
     color: tint
     _template: features
 ---
+
 
 
 

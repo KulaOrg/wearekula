@@ -39,7 +39,7 @@
     }
   },
   "theme": {
-    "color": "teal",
+    "color": "yellow",
     "font": "sans",
     "darkMode": "system"
   }

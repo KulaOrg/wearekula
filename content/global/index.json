@@ -12,20 +12,20 @@
         "label": "Home"
       },
       {
-        "href": "map",
-        "label": "Community Map"
-      },
-      {
-        "href": "",
-        "label": "Home"
-      },
-      {
         "href": "about",
         "label": "Manifesto"
       },
       {
         "href": "posts",
         "label": "Stories"
+      },
+      {
+        "href": "map",
+        "label": "Community Map"
+      },
+      {
+        "href": "contribute",
+        "label": "Contribute"
       }
     ]
   },

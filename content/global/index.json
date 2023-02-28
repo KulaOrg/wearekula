@@ -33,9 +33,9 @@
     "color": "default",
     "social": {
       "facebook": "",
-      "twitter": "/",
+      "twitter": "https://twitter.com/kula_org?s=20",
       "instagram": "",
-      "github": "/"
+      "github": "https://github.com/KulaOrg/wearekula"
     }
   },
   "theme": {

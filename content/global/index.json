@@ -8,6 +8,14 @@
     "color": "default",
     "nav": [
       {
+        "href": "home",
+        "label": "Home"
+      },
+      {
+        "href": "map",
+        "label": "Community Map"
+      },
+      {
         "href": "",
         "label": "Home"
       },
